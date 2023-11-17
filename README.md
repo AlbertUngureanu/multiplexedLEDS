@@ -6,7 +6,7 @@
 
 * Developed some nice patterns for the LED band using the functions mentioned before
 
-* Used State Machines and Arrays of Function Pointers
+* Used State Machines, Arrays of Function Pointers and header files for portability
 
 * Connected an IR Obstacle Detection Module to a digital pin on which I enabled the external interrupt for state update
 
